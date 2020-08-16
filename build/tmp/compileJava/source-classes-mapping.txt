@@ -1,2 +1,0 @@
-hello/HelloWorld.java
- com.apple.HelloWorld
